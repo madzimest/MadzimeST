@@ -16,7 +16,7 @@ I'm an **Astrophysicist**, **Data Scientist**, and **Web Developer** passionate 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsmadzime@gmail.com)  
 🌐 [Personal Website](https://spencer-tendai.web.app/)
 
-⚡ **Fun fact**: I made the first detection of AE Aquarii with the MeerKAT radio telescope and discovered pulsed radio emission from this white dwarf pulsar.
+⚡ **Fun fact**: I made the first detection of AE Aquarii with the MeerKAT radio telescope and discovered possible pulsed radio emission from this white dwarf pulsar.
 
 ### 🛠️ Technologies & Tools
 
