@@ -2,7 +2,7 @@
 
 I'm an **Astrophysicist**, **Data Scientist**, and **Web Developer** passionate about exploring the universe through data and building tools for discovery.
 
-🔭 **Currently working on**: Multi‑wavelength studies of compact binaries (white dwarf pulsars, gamma‑ray emission) and developing data pipelines for radio astronomy.
+🔭 **Currently working on**: Multi‑wavelength studies of compact binaries (white dwarf pulsars, gamma‑ray emission) and developing data pipelines.
 
 🌱 **Currently learning**: Advanced machine learning techniques, cloud computing for data-intensive astronomy, and contributing to open‑source science tools.
 
