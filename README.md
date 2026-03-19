@@ -6,7 +6,7 @@ I'm an **Astrophysicist**, **Data Scientist**, and **Web Developer** passionate 
 
 🌱 **Currently learning**: Advanced machine learning techniques, cloud computing for data-intensive astronomy, and contributing to open‑source science tools.
 
-👯 **Looking to collaborate on**: Projects at the intersection of astrophysics, data science, and web development – especially those involving time‑domain surveys, ML in astronomy, or science communication.
+👯 **Looking to collaborate on**: Projects at the intersection of astrophysics, data science, and web development, especially those involving time‑domain surveys, ML in astronomy, or science communication.
 
 💬 **Ask me about**: Gamma‑ray astronomy, MeerKAT data analysis, Fermi‑LAT, white dwarf binaries, or building React apps for scientific visualization.
 
@@ -17,8 +17,6 @@ I'm an **Astrophysicist**, **Data Scientist**, and **Web Developer** passionate 
 🌐 [Personal Website](https://spencer-tendai.web.app/)
 
 ⚡ **Fun fact**: I made the first detection of AE Aquarii with the MeerKAT radio telescope and discovered pulsed radio emission from this white dwarf pulsar.
-
----
 
 ### 🛠️ Technologies & Tools
 
@@ -37,30 +35,27 @@ I'm an **Astrophysicist**, **Data Scientist**, and **Web Developer** passionate 
 
 ### 📌 Selected Projects
 
-- **Gamma‑Ray Emission from Magnetic White Dwarfs** – First systematic search with Fermi‑LAT (130+ systems)  
+- **Gamma‑Ray Emission from Magnetic White Dwarfs**, First systematic search with Fermi‑LAT (130+ systems)  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/fermi-gamma-ray-case)
 
 - **AE Aquarii: First MeerKAT Detection & Pulsed Radio Emission**  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/ae-aquarii-analysis)
 
-- **Fast Imaging Pipeline for Radio Interferometry** – High‑time‑resolution light curves from CASA data  
+- **Fast Imaging Pipeline for Radio Interferometry**, High‑time‑resolution light curves from CASA data  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/FastImagingPipeline)
 
-- **House Prices Prediction (Ames)** – Advanced regression with XGBoost, LightGBM, stacking  
+- **House Prices Prediction (Ames)**, Advanced regression with XGBoost, LightGBM, stacking  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/House-Prices-Advanced-Regression-Techniques)
 
-- **Cat & Dog Image Classifier** – CNN with TensorFlow/Keras  
+- **Cat & Dog Image Classifier**, CNN with TensorFlow/Keras  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/Cat-and-Dog-Image-Classifier)
 
-- **Book Recommendation Engine** – KNN collaborative filtering on Book‑Crossings dataset  
+- **Book Recommendation Engine**, KNN collaborative filtering on Book‑Crossings dataset  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/Book-Recommendation-Engine-using-KNN)
-
----
 
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=madzimest&show_icons=true&theme=radical)
 
----
 
 *“Exploring the high‑energy universe through data, building tools for discovery.”*
