@@ -38,8 +38,8 @@ I'm an **Astrophysicist**, **Data Scientist**, and **Web Developer** passionate 
 - **Gamma‑Ray Emission from Magnetic White Dwarfs**, First systematic search with Fermi‑LAT (130+ systems)  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/fermi-gamma-ray-case)
 
-- **AE Aquarii: First MeerKAT Detection & Pulsed Radio Emission**  
-  [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/ae-aquarii-analysis)
+- **AE Aquarii: First MeerKAT Detection & Possible Pulsed Radio Emission**  
+  <!-- [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/ae-aquarii-analysis) -->
 
 - **Fast Imaging Pipeline for Radio Interferometry**, High‑time‑resolution light curves from CASA data  
   [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/madzimest/FastImagingPipeline)
